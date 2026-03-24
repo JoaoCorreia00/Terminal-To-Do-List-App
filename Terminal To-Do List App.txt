@@ -1,0 +1,25 @@
+Build a command-line task manager.
+
+Features to implement:
+
+Add a task
+
+List all tasks
+
+Mark task as completed
+
+Delete a task
+
+Save tasks to a file
+
+Load tasks when the program starts
+
+
+
+Extra challenges
+
+Add priorities
+
+Add due dates
+
+Sort tasks
